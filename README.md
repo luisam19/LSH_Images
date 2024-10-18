@@ -11,3 +11,12 @@ Isabella Ariza Cuberos - Luisa María Zapata Saldarriaga </center></font></h3>
 <p1><center> </center></p1>
 
 # LSH
+
+**Datos**
+
+http://www.vision.caltech.edu/datasets/
+
+**Repositorio base**
+
+- https://github.com/TanyaChutani/Keras-Reverse-Image-Search-Using-LSH-and-Cosine-Similarity/blob/master/Reverse_Image_Search_Keras.ipynb
+- https://github.com/mendesk/image-ndd-lsh
